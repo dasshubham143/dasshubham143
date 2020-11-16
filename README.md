@@ -11,9 +11,9 @@ I am Shubham Das. My main  interest are web development and Graphic design. I al
 -->
 
 
--  I'm currently pursuing B.tech.
+- :notebook_with_decorative_cover: I'm currently pursuing B.tech.
 - 🌱 I’m currently learning Data Scientist's Toolbox
 - 📫 How to reach me: Contact me directly on this mail dasshubham5341@gmail.com.
-- 😄 Pronouns: ...![linkedIn](174857.png)
+- 😄 Pronouns: 
 - ⚡ Fun fact: 
 
